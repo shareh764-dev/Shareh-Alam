@@ -143,7 +143,7 @@ B.Tech Computer Science and Engineering | August 2025 - July 2029
 I'm always interested in hearing about new projects, opportunities, and collaborations. Feel free to reach out!
 
 - 📧 **Email:** shareh764@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/waleem-raza](www.linkedin.com/in/sharehalam)
+- 💼 **LinkedIn:** [(www.linkedin.com/in/sharehalam)]
 - 💻 **GitHub:** [github.com](((https://github.com/shareh764-dev))
 
 ---
